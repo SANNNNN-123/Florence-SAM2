@@ -22,7 +22,8 @@ By overlapping the detected speaker images with the human faces identified earli
 
 ### 4. Censorship with SAM2
 SAM2 (Segment Anything Model 2) is used to mask the passerby faces. We apply pixelated censorship to the faces we filter out, ensuring privacy is protected.
+The output is saved as a new video file. Below is an example of the censored video:
 
-*Insert Demo.mp4 Here*  
-(Example of video demonstrating the censorship process)
+`output/blur_video.mp4`
+
 
