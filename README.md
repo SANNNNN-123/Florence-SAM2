@@ -9,7 +9,7 @@ Florence+SAM2 is experimenting computer vision project that combines the power o
 ### 1. Face Identification with Florence 2
 Using Florence 2, we identify all human faces in a given image. 
 
-*Insert Image Here*  
+![Florence Result](result/Florence_result.png)  
 (Example of face identification using Florence 2)
 
 ### 2. Speaker Detection with Florence 2
