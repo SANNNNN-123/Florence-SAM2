@@ -25,5 +25,6 @@ SAM2 (Segment Anything Model 2) is used to mask the passerby faces. We apply pix
 The output is saved as a new video file. Below is an example of the censored video:
 
 `output/blur_video.mp4`
+[Demo Video](output/blur_video.mp4)
 
 
