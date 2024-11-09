@@ -28,10 +28,3 @@ SAM2 (Segment Anything Model 2) is used to mask the passerby faces. We apply pix
 *Insert Demo.mp4 Here*  
 (Example of video demonstrating the censorship process)
 
-## Installation
-
-To run this project locally, you will need to install the necessary dependencies.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Florenc
