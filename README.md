@@ -2,7 +2,7 @@
 
 # Florence+SAM2: Human Face Identification and Censorship
 
-Florence+SAM2 is experimenting computer vision project that combines the power of Florence 2 and SAM2 to identify human faces in images, detect speakers, and apply censorship to passerby faces. The project demonstrates how to filter out passerby faces from speaker images and apply pixelated masking to protect privacy.
+Florence+SAM2; experimenting computer vision project that combines the power of Florence 2 and SAM2 to identify human faces in images, detect speakers, and apply censorship to passerby faces. The project demonstrates how to filter out passerby faces from speaker images and apply pixelated masking to protect privacy.
 
 ## Project Workflow
 
