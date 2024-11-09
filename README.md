@@ -15,7 +15,7 @@ Using Florence 2, we identify all human faces in a given image.
 ### 2. Speaker Detection with Florence 2
 We then use Florence 2 to identify speakers' faces from another image.
 
-*Insert Image Here*  
+![Florence Result](result/Florence_Result_main_speaker.png) 
 (Example of speaker detection with Florence 2)
 
 ### 3. Filtering Passerby Faces
